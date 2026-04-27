@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "APS112: Engineering Strategies and Pratice II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Toronto, Faculty of Applied Science and Engineering, First Year Office"
+date: 2026-01-01
+location: "Toronto, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching Assistant for APS112: Engineering Strategies and Practice II. Led weekly tutorials for 36 first year engineering students. Marked three course assignments. Course content focused on the engineering design process, report writing, authoring requirements (including functions, objectives, and constraints), idea generation and selection, and testing of conceptual designs. 
